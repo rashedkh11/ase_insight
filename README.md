@@ -31,7 +31,7 @@
 ### ASE Insight
 ![ASE Insight](Screenshots/Screenshot.png)
 
-### Technical Dashboard
+### AI Prediction
 ![AI Prediction](Screenshots/ai_prediction2.png)
 ## Data Source
 This project uses stock data from the **Amman Stock Exchange (ASE)**: [https://www.ase.com.jo/ar](https://www.ase.com.jo/ar)
