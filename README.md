@@ -33,6 +33,10 @@
 
 ### AI Prediction
 ![AI Prediction](Screenshots/ai_prediction2.png)
+
+### Stock Chat
+![Stock Chat](Screenshots/Screenshot 2026-01-08 150454.png)
+
 ## Data Source
 This project uses stock data from the **Amman Stock Exchange (ASE)**: [https://www.ase.com.jo/ar](https://www.ase.com.jo/ar)
 
