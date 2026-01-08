@@ -28,7 +28,11 @@
    - **Stock Chat**: Ask questions about ASE stocks and receive automated insights.
    - **About & Help**: Learn more about the project and how to use it.
 3. Explore datasets, predictions, and visualizations interactively.
+### ASE Insight
+![ASE Insight](screenshots/Screenshot.png)
 
+### Technical Dashboard
+![Technical Dashboard](screenshots/technical_dashboard.png)
 ## Data Source
 This project uses stock data from the **Amman Stock Exchange (ASE)**: [https://www.ase.com.jo/ar](https://www.ase.com.jo/ar)
 
