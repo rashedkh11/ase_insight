@@ -33,6 +33,7 @@
 
 ### AI Prediction
 ![AI Prediction](Screenshots/ai_prediction2.png)
+![AI Prediction](Screenshots/Screenshot4.png)
 
 ### Stock Chat
 ![Stock Chat](Screenshots/Screenshot3)
