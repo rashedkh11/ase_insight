@@ -20,21 +20,6 @@
 - **Machine Learning:** Scikit-learn, TensorFlow / PyTorch (if used)  
 - **Other Tools:** Excel for datasets  
 
-## Project Structure
-ase_insight/
-├── ASE_insight.py
-├── ML AND DL.IPYNB
-├── Material.py
-├── ase_data.py
-├── ase_utils.py
-├── material2.py
-├── pages/
-│ ├── AI_Prediction.py
-│ ├── About.py
-│ ├── Help.py
-│ ├── Stock_Chat.py
-│ └── Technical_Dashboard.py
-└── README.md
 ## How to Use
 1. Open the app in your browser.
 2. Navigate between pages using the sidebar:
