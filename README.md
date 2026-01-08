@@ -29,7 +29,7 @@
    - **About & Help**: Learn more about the project and how to use it.
 3. Explore datasets, predictions, and visualizations interactively.
 ### ASE Insight
-![ASE Insight](screenshots/Screenshot.png)
+![ASE Insight](screenshots/screenshot.png)
 
 ### Technical Dashboard
 ![Technical Dashboard](screenshots/technical_dashboard.png)
