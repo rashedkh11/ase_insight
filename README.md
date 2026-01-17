@@ -18,7 +18,7 @@
 - **Web Framework:** Streamlit, Flask  
 - **Data Analysis:** Pandas, NumPy  
 - **Machine Learning:** Scikit-learn, TensorFlow / PyTorch (if used)  
-- **Other Tools:** Excel for datasets  
+- **Other Tools:** Excel for datasets  .
 
 ## How to Use
 1. Open the app in your browser.
